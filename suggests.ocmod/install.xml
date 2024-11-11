@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modification>
+    <name>Admin &gt; Extensions &gt; Suggests</name>
+    <code>admin_extensions_suggests</code>
+    <version>1.1.1</version>
+    <author>Ghifar Haidar</author>
+    <link>https://www.opencart.com</link>
+    
+</modification>
